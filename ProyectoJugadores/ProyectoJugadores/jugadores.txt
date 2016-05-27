@@ -1,0 +1,501 @@
+Lionel Messi::FC Barcelona::Liga BBVA::Argentina ::RW::94::88::86::95::24::62
+Cristiano Ronaldo::Real Madrid::Liga BBVA::Portugal::LW::93::93::80::90::33::78
+Luis Suárez::FC Barcelona::Liga BBVA::Uruguay::ST::90::88::79::88::42::79
+Arjen Robben::FC Bayern Munchen::Bundesliga::Netherlands::RM::90::86::82::92::32::64
+Manuel Neuer::FC Bayern Munchen::Bundesliga::Germany::GK::90::87::91::86::58::90
+Eden Hazard::Chelsea FC ::Barclays PL::Belgium::LM::89::82::84::92::32::64
+Zlatan Ibrahimovic::Paris Saint-Germain::Liga 1::Sweden::ST::89::90::81::85::31::86
+Neymar::FC Barcelona::Liga BBVA::Brazil::LW::88::80::72::92::30::58
+Iniesta ::FC Barcelona::Liga BBVA::Spain::CM::88::72::87::90::59::63
+David Silva::Manchester City ::Barclays PL::Spain::CAM::88::74::89::89::32::58
+Thiago Silva::Paris Saint-Germain::Liga 1::Brazil::CB::88::57::73::73::90::79
+Mesut Özil::Arsenal::Barclays PL::Germany::CAM::87::74::85::86::24::57
+Cesc Fàbregas::Chelsea FC::Barclays PL::Spain::CM::87::78::90::81::64::65
+Franck Ribéry::FC Bayern Munchen::Bundesliga::France::LM::87::77::84::91::25::61
+Robert Lewandowski::FC Bayern Munchen::Bundesliga::Poland ::ST::87::85::74::84::38::80
+Jérôme Boateng::FC Bayern Munchen::Bundesliga::Germany::CB::87::50::69::68::87::84
+Philipp Lahm::FC Bayern Munchen::Bundesliga::Germany::CDM::87::56::84::85::87::66
+Giorgio Chiellini::Juventus::Serie A::Italy::CB::87::47::56::58::90::84
+Sergio Agüero::Manchester City::Barclays PL::Argentina::ST::87::87::77::89::23::68
+Gareth Bale::Real Madrid::Liga BBVA::Wales::RM::87::83::83::84::63::80
+Sergio Ramos::Real Madrid::Liga BBVA::Spain::CB::87::60::71::66::87::81
+James-Rodríguez::Real Madrid::Liga BBVA::Colombia::CAM::87::86::84::85::40::72
+Luka Modric::Real Madrid::Liga BBVA::Croatia::CM::87::74::84::89::71::68
+Toni Kroos::Real Madrid::Liga BBVA::Germany::CM::87::81::88::82::66::69
+Alexis Sánchez::Arsenal::Barclays PL::Chili::LW::86::83::78::88::39::73
+Marco Reus::Borussia Dortmund::Bundesliga::Germany::LM::86::84::85::86::39::64
+Mats Hummels::Borussia Dortmund::Bundesliga::Spain::CB::86::58::74::70::88::77
+Carlos Tévez::CA Boca Juniors::Argentina::Argentina::ST::86::88::76::88::45::84
+Thibaut Courtois::Chelsea FC::Barclays PL::Belgium::GK::86::87::69::88::46::86
+Diego Costa::Chelsea FC::Barclays PL::Spain::ST::86::83::63::79::40::88
+Sergio Busquets::FC Barcelona::Liga BBVA::Spain::CDM::86::59::77::74::83::80
+Thomas Müller::FC Bayern Munchen::Bundesliga::Germany::CF::86::84::80::79::46::72
+Arturo Vidal::FC Bayern Munchen::Bundesliga::Chili::CM::86::79::80::81::83::83
+Paul Pogba::Juventus ::Serie A::France::CM::86::80::82::86::74::88
+Kevin De Bruyne::Manchester City::Barclays PL::Belgium::CAM::86::83::86::84::40::75
+De Gea::Manchester United::Barclays PL::Spain::GK::86::81::86::89::51::83
+Wayne Rooney::Manchester United::Barclays PL::England::ST::86::86::81::81::47::87
+Bastian Schweinsteiger::Manchester United::Barclays PL::Germany::CM::86::79::84::79::76::78
+Karim Benzema::Real Madrid::Liga BBVA::France::ST::86::84::75::81::22::74
+Petr ?ech::Arsenal::Barclays PL::Czech::GK::85::84::73::84::45::83
+Santi Cazorla::Arsenal::Barclays PL::Spain::CAM::85::78::85::87::56::64
+Diego Godín::Atletico Madrid::Liga BBVA::Uruguay::CB::85::48::63::62::87::78
+John Terry::Chelsea FC::Barclays PL::England::CB::85::47::57::52::87::81
+Piqué::FC Barcelona::Liga BBVA::Spain::CB::85::54::67::60::86::76
+David Alaba::FC Bayern Munchen::Bundesliga::Austria::LB::85::72::81::83::84::72
+Yaya Touré::Manchester City::Barclays PL::Ivory Coast::CM::85::83::81::79::70::86
+Vincent Kompany::Manchester City::Barclays PL::Belgium::CB::85::54::62::65::86::81
+Ángel Di María::Paris Saint-Germain::Liga 1::Argentina::CAM::85::79::83::86::49::70
+Edinson Cavani::Paris Saint-Germain::Liga 1::Uruguay::ST::85::83::71::81::42::80
+Naldo::VfL Wolfsburg::Bundesliga::Brazil::CB::85::69::64::63::88::76
+Miralem Pjanic::AS Roma::Serie A::Bosnia and Herzegovina::CM::84::75::85::84::63::66
+Jackson Martínez::Atletico Madrid::Liga BBVA::Colombia::ST::84::82::67::79::44::85
+Bernd Leno::Bundesliga::Bundesliga::Germany::GK::84::84::81::85::46::83
+Oscar::Chelsea FC::Barclays PL::Brazil::CAM::84::75::81::84::43::46
+Nemanja Mati?::Chelsea FC::Barclays PL::Serbia::CDM::84::70::77::75::82::88
+Jordi Alba::FC Barcelona::Liga BBVA::Spain::LB::84::69::74::81::80::76
+Dani Alves::FC Barcelona::Liga BBVA::Brazil::RB::84::70::76::83::78::69
+Ivan Rakiti?::FC Barcelona::Liga BBVA::Croatia::CM::84::82::86::82::56::67
+Mario Götze::FC Bayern Munchen::Bundesliga::Germany::CAM::84::73::81::89::32::62
+Medhi Benatia::FC Bayern Munchen::Bundesliga::Marocco::CB::84::44::54::61::86::83
+Javi Martinez::FC Bayern Munchen::Bundesliga::Spain::CB::84::61::71::65::84::79
+Xabi Alonso::FC Bayern Munchen::Bundesliga::Spain::CDM::84::69::88::77::76::70
+Casillas::FC Porto::1ra División Portugal::Spain::GK::84::79::67::88::65::79
+Robin van Persie::Fenerbahçe SK::Superliga Turca::Holland::ST::84::86::81::81::33::67
+Wesley Sneijder::Galatasaray SK::Superliga Turca::Holland::CAM::84::80::86::84::45::62
+Miranda::Inter Milan::Serie A::Brazil::CB::84::49::56::57::86::80
+Gianluigi Buffon::Juventus::Serie A::Italy::GK::84::79::71::83::49::89
+Claudio Marchisio::Juventus::Serie A::Italy::CM::84::74::82::83::77::78
+Andrea Barzagli::Juventus::Serie A::Italy::CB::84::36::55::59::88::77
+Coutinho::Liverpool::Barclays PL::Brazil::CAM::84::74::81::87::33::56
+Steven Gerrard::Los Angeles Galaxy::Major League Soccer::England::CM::84::82::86::75::69::80
+Nicolás Otamendi::Manchester City::Barclays PL::Argentina::CB::84::56::56::54::86::82
+Juan Mata::Manchester United::Barclays PL::Spain::RM::84::75::84::87::27::55
+Gonzalo Higuaín::Napoli::Serie A::Argentina::ST::84::84::68::81::22::71
+Andrea Pirlo::New York City FC::Major League Soccer::Italy::CM::84::71::93::81::54::58
+Alexandre Lacazette::Olympique Lyonnais::Liga 1::France::ST::84::85::74::85::34::73
+Blaise Matuidi::Paris Saint-Germain::Liga 1::France::CDM::84::67::77::75::83::81
+Javier Pastore::Paris Saint-Germain::Liga 1::Argentina::CM::84::77::84::86::58::68
+Marco Verratti::Paris Saint-Germain::Liga 1::Italy::CM::84::58::83::87::78::69
+Isco::Real Madrid::Liga BBVA::Spain::CAM::84::75::80::87::32::63
+Pepe::Real Madrid::Liga BBVA::Portugal::CB::84::50::58::59::86::83
+Hugo Lloris::Tottenham Hotspur FC::Barclays PL::France::GK::84::82::68::88::65::81
+Hulk::Zenit Saint Petersburg::Russian Premier League::Brazil::RW::84::87::81::82::43::86
+Laurent Koscielny::Arsenal::Barclays PL::France::CB::83::40::62::65::84::75
+Per Mertesacker::Arsenal::Barclays PL::Germany::CB::83::41::57::48::88::75
+João Moutinho::AS Monaco::Liga 1::Portugal::CAM::83::76::83::82::71::71
+Radja Nainggolan::AS Roma::Serie A::Belgium::CM::83::78::79::81::80::84
+Daniele De Rossi::AS Roma::Serie A::Italy::CDM::83::66::74::72::82::84
+Aymeric Laporte::Athletic Bilbao::Liga BBVA::France::CB::83::37::59::60::86::78
+Antoine Griezmann::Atletico Madrid::Liga BBVA::France::ST::83::81::77::84::29::68
+Koke::Atletico Madrid::Liga BBVA::Spain::CAM::83::72::85::81::53::73
+Karim Bellarabi::Bayer Leverkusen::Bundesliga::Germany::RM::83::76::76::86::33::64
+Sokratis::Borussia Dortmund::Bundesliga::Greece::CB::83::53::57::60::86::83
+Pedro::Chelsea FC::Barclays PL::Spain::LW::83::76::77::84::37::62
+Gary Cahill::Chelsea FC::Barclays PL::England::CB::83::58::52::62::86::76
+Falcao::Chelsea FC::Barclays PL::Colombia::ST::83::82::64::79::37::73
+Leighton Baines::Everton::Barclays PL::England::LB::83::75::81::77::82::74
+Claudio Bravo::FC Barcelona::Liga BBVA::Chile::GK::83::82::84::86::58::78
+Jérémy Mathieu::FC Barcelona::Liga BBVA::France::CB::83::64::66::55::84::82
+Arda Turan::FC Barcelona::Liga BBVA::Turkey::RM::83::74::82::87::63::73
+Javier Mascherano::FC Barcelona::Liga BBVA::Argentina::CB::83::59::70::69::85::80
+Thiago::FC Bayern Munchen::Bundesliga::Spain::CM::83::75::81::89::57::64
+Benedikt Höwedes::FC Schalke 04::Bundesliga::Germany::CB::83::47::63::65::84::78
+Samir Handanovic::Inter Milan::Serie A::Slovenia::GK::83::79::65::86::54::86
+Nemanja Vidic::Inter Milan::Serie A::Serbia::CB::83::33::48::50::85::80
+Mario Mandukic::Juventus::Serie A::Croatia::ST::83::82::62::76::38::86
+Leonardo Bonucci::Juventus::Serie A::Italy::CB::83::50::66::67::85::81
+Sami Khedira::Juventus::Serie A::Germany::CDM::83::70::73::70::83::86
+Antonio Candreva::Lazio::Serie A::Italy::RW::83::81::82::85::45::74
+Daniel Sturridge::Liverpool::Barclays PL::England::ST::83::83::69::81::25::70
+Joe Hart::Manchester City::Barclays PL::England::GK::83::78::76::86::59::80
+Samir Nasri::Manchester City::Barclays PL::France::LM::83::76::83::86::38::58
+Steve Mandanda::Marseille::Liga 1::France::GK::83::78::79::84::53::81
+David Luiz::Paris Saint-Germain::Liga 1::Brazil::CB::83::64::73::73::82::77
+Marcelo::Real Madrid::Liga BBVA::Brazil::LB::83::67::77::84::81::79
+Stéphane Ruffier::Saint-Etienne::Liga 1::France::GK::83::81::77::86::55::83
+Nicolás Gaitán::SL Benfica::1ra División Portugal::Argentina::LM::83::74::83::86::40::57
+Christian Eriksen::Tottenham Hotspur FC::Barclays PL::Denmark::CAM::83::75::84::83::44::59
+Diego Alves::Valencia CF::Liga BBVA::Brazil::GK::83::76::76::88::55::77
+Ricardo Rodriguez::VfL Wolfsburg::Bundesliga::Switzerland::LB::83::67::82::78::84::76
+Luiz Gustavo::VfL Wolfsburg::Bundesliga::Brazil::CDM::83::60::70::71::84::82
+Ezequiel Garay::Zenit Saint Petersburg::Russian Premier League::Argentina::CB::83::57::68::64::87::78
+Marek Hamsik::Napoli::Serie A::::CAM::83::77::81::82::58::70
+Carlos Bacca::AC Milan::Serie A::Colombia::ST::82::83::65::80::24::77
+Diego López::AC Milan::Serie A::Spain::GK::82::77::77::83::34::87
+Jasper Cillessen::Ajax::Eredivisie::Netherlands::GK::82::84::74::79::54::82
+Aaron Ramsey::Arsenal::Barclays PL::Wales::CM::82::78::79::80::68::76
+Olivier Giroud::Arsenal::Barclays PL::France::ST::82::82::69::71::38::83
+Jérémy Toulalan::AS Monaco::Liga 1::France::CDM::82::50::76::71::79::81
+Kostas Manolas::AS Roma::Serie A::Greece::CB::82::19::42::60::85::82
+Leandro Castán::AS Roma::Serie A::Brazil::CB::82::33::47::57::85::80
+Aduriz::Athletic Bilbao::Liga BBVA::Spain::ST::82::83::63::72::47::81
+Filipe Luís::Atletico Madrid::Liga BBVA::Brazil::LB::82::62::76::76::81::77
+Yann Sommer::Bor. M'gladbach::Bundesliga::Switzerland::GK::82::82::85::86::48::76
+Pierre-Emerick Aubameyang::Borussia Dortmund::Bundesliga::Gabon::ST::82::81::75::79::36::71
+Shinji Kagawa::Borussia Dortmund::Bundesliga::Japan::CAM::82::67::75::87::34::49
+?lkay Gündo?an::Borussia Dortmund::Bundesliga::Germany::CM::82::71::82::85::63::72
+Nolito::Celta Vigo::Liga BBVA::Spain::LW::82::79::79::83::39::66
+Willian::Chelsea FC::Barclays PL::Brazil::RM::82::74::78::85::50::63
+Asmir Begovi?::Chelsea FC::Barclays PL::Bosnia and Herzegovina::GK::82::80::74::84::52::80
+Azpilicueta::Chelsea FC::Barclays PL::Spain::LB::82::56::74::74::84::76
+Roman Eremenko::CSKA Moskva::Russian Premier League::Finland::CAM::82::77::83::80::54::73
+Marc-André ter Stegen::FC Barcelona::Liga BBVA::Germany::GK::82::81::82::85::38::78
+Klaas-Jan Huntelaar::FC Schalke 04::Bundesliga::Netherlands::ST::82::84::64::71::32::72
+Alex Teixeira::FC Shakhtar::Liga Premier de Ucrania::Brazil::CAM::82::76::76::86::67::65
+Nani::Fenerbahçe SK::Superliga Turca::Portugal::LM::82::79::82::86::24::65
+Borja Valero::Fiorentina::Serie A::Spain::CM::82::72::85::81::65::67
+Fernando Muslera::Galatasaray SK::Superliga Turca::Uruguay::GK::82::80::75::86::60::83
+Juan Cuadrado::Juventus::Serie A::Colombia::RM::82::77::75::87::54::71
+Alex Sandro::Juventus::Serie A::Brazil::LB::82::65::75::81::80::75
+Stephan Lichtsteiner::Juventus::Serie A::Switzerland::RB::82::60::72::75::80::79
+Lucas Biglia::Lazio::Serie A::Argentina::CDM::82::64::79::78::75::78
+Stefan de Vrij::Lazio::Serie A::Netherlands::CB::82::41::58::66::85::76
+Christian Benteke::Liverpool::Barclays PL::Belgium::ST::82::81::65::75::33::85
+Roberto Firmino::Liverpool::Barclays PL::Brazil::CAM::82::76::78::84::40::69
+Raheem Sterling::Manchester City::Barclays PL::England::LM::82::71::73::87::46::61
+Pablo Zabaleta::Manchester City::Barclays PL::Argentina::RB::82::56::70::75::85::83
+Victor Valdés::Manchester United::Barclays PL::Spain::GK::82::78::77::83::60::85
+Morgan Schneiderlin::Manchester United::Barclays PL::France::CDM::82::63::76::74::80::82
+Dries Mertens::Napoli::Serie A::Belgium::CAM::82::78::80::87::37::56
+Maxime Gonalons::Olympique Lyon::Liga 1::France::CDM::82::62::72::70::83::83
+Lucas::Paris Saint-Germain::Liga 1::Brazil::RW::82::73::75::87::44::62
+Salvatore Sirigu::Paris Saint-Germain::Liga 1::Italy::GK::82::79::75::84::50::80
+Kevin Trapp::Paris Saint-Germain::Liga 1::Germany::GK::82::79::79::85::45::80
+Raphaël Varane::Real Madrid::Liga BBVA::France::CB::82::45::60::63::84::76
+Carlos Vela::Real Sociedad::Liga BBVA::Mexico::RW::82::79::75::84::25::65
+Loïc Perrin::Saint-Etienne::Liga 1::France::CB::82::65::69::67::85::80
+Yevgen Konoplyanka::Sevilla FC::Liga BBVA::Ukraine::LW::82::77::80::84::33::66
+Grzegorz Krychowiak::Sevilla FC::Liga BBVA::Portugal::CDM::82::57::72::62::82::87
+Júlio César::SL Benfica::1ra División Portugal::Brazil::GK::82::78::67::85::39::82
+Jonas::SL Benfica::1ra División Portugal::Brazil::ST::82::83::74::83::30::65
+Luisão::SL Benfica::1ra División Portugal::Brazil::CB::82::53::59::57::85::76
+Kamil Glik::Torino::Serie A::Poland::CB::82::24::43::53::85::82
+Jan Vertonghen::Tottenham Hotspur FC::Barclays PL::Belgium::CB::82::67::70::69::83::81
+Shkodran Mustafi::Valencia CF::Liga BBVA::Germany::CB::82::57::62::55::83::80
+Parejo::Valencia CF::Liga BBVA::Spain::CM::82::75::87::80::57::70
+Danny::Zenit Saint Petersburg::Russian Premier League::Portugal::CAM::82::74::81::84::33::65
+Jérémy Ménez::AC Milan::Serie A::France::CF::81::77::71::85::32::60
+Nigel de Jong::AC Milan::Serie A::Netherlands::CDM::81::51::69::71::78::86
+Alex::AC Milan::Serie A::Brazil::CB::81::58::50::53::83::81
+Theo Walcott::Arsenal::Barclays PL::England::RM::81::77::74::81::33::63
+Jack Wilshere::Arsenal::Barclays PL::England::CM::81::69::81::84::62::73
+Mikel Arteta::Arsenal::Barclays PL::Spain::CM::81::73::82::78::73::65
+Danijel Subai?::AS Monaco::Liga 1::Croatia::GK::81::78::79::83::51::81
+Aymen Abdennour::AS Monaco::Liga 1::Tunisia::CB::81::58::63::64::82::84
+Edin Deko::AS Roma::Serie A::Bosnia and Herzegovina::ST::81::84::67::72::31::72
+Iturraspe::Athletic Bilbao::Liga BBVA::Spain::CDM::81::62::77::69::80::76
+Moyá::Atletico Madrid::Liga BBVA::Spain::GK::81::80::81::80::46::82
+Juanfran::Atletico Madrid::Liga BBVA::Spain::RB::81::59::73::77::77::78
+Jan Oblak::Atletico Madrid::Liga BBVA::Slovenia::GK::81::84::72::82::43::83
+Stefan Savi?::Atletico Madrid::Liga BBVA::Montenegro::CB::81::35::52::56::84::76
+Raúl García::Atletico Madrid::Liga BBVA::Spain::CAM::81::76::82::78::66::80
+Tiago::Atletico Madrid::Liga BBVA::Portugal::CM::81::69::78::74::68::77
+Ömer Toprak::Bayer Leverkusen::Bundesliga::Turkey::CB::81::39::62::66::84::74
+Lars Bender::Bayer Leverkusen::Bundesliga::Germany::CM::81::64::76::73::82::81
+Quaresma::Be?ikta? JK::Superliga Turca::Portugal::RM::81::77::79::86::18::65
+Patrick Herrmann::Bor. M'gladbach::Bundesliga::Germany::RM::81::75::75::83::31::62
+Raffael::Bor. M'gladbach::Bundesliga::Brazil::CF::81::77::79::85::41::67
+Martin Stranzl::Bor. M'gladbach::Bundesliga::Austria::CB::81::41::54::50::86::77
+Granit Xhaka::Bor. M'gladbach::Bundesliga::Switzerland::CM::81::66::80::71::70::77
+Henrikh Mkhitaryan::Borussia Dortmund::Bundesliga::Armenia::RM::81::72::76::86::55::71
+?ukasz Piszczek::Borussia Dortmund::Bundesliga::Poland::RB::81::66::72::74::82::80
+Gonzalo Castro::Borussia Dortmund::Bundesliga::Germany::CM::81::69::82::81::75::69
+Nuri ?ahin::Borussia Dortmund::Bundesliga::Turkey::CM::81::68::84::81::69::61
+Loïc Rémy::Chelsea FC::Barclays PL::France::ST::81::80::68::74::34::71
+Igor Akinfeev::CSKA Moskva::Russian Premier League::Russia::GK::81::75::79::85::51::78
+Séamus Coleman::Everton::Barclays PL::Republic of Ireland::RB::81::68::72::78::81::78
+Phil Jagielka::Everton::Barclays PL::England::CB::81::46::58::55::83::81
+Douglas Costa::FC Bayern Munchen::Bundesliga::Brazil::RM::81::75::78::86::50::63
+Dante::FC Bayern Munchen::Bundesliga::Brazil::CB::81::53::67::64::83::75
+Helton::FC Porto::1ra División Portugal::Brazil::GK::81::78::74::85::64::77
+Ralf Fährmann::FC Schalke 04::Bundesliga::Germany::GK::81::79::65::85::38::81
+Darijo Srna::FC Shakhtar::Liga Premier de Ucrania::Croatia::RB::81::75::85::75::78::77
+Simon Kjær::Fenerbahçe SK::Superliga Turca::Denmark::CB::81::42::63::53::84::80
+Aurélien Chedjou::Galatasaray SK::Superliga Turca::Cameroon::CB::81::60::64::67::82::84
+Mattia Perin::Genoa::Serie A::Italy::GK::81::78::71::90::57::78
+Stevan Joveti?::Inter Milan::Serie A::Montenegro::ST::81::81::78::83::36::69
+Gary Medel::Inter Milan::Serie A::Chile::CDM::81::51::69::70::79::89
+Hernanes::Inter Milan::Serie A::Brazil::CAM::81::77::83::83::46::68
+Roberto Pereyra::Juventus::Serie A::Argentina::CAM::81::71::81::85::74::75
+Morata::Juventus::Serie A::Spain::ST::81::81::66::82::23::73
+Martín Cáceres::Juventus::Serie A::Uruguay::CB::81::51::63::66::86::75
+Patrice Evra::Juventus::Serie A::France::LB::81::51::72::76::82::74
+Marco Parolo::Lazio::Serie A::Italy::CM::81::79::77::76::77::82
+Miroslav Klose::Lazio::Serie A::Germany::ST::81::77::63::73::28::63
+Nathaniel Clyne::Liverpool::Barclays PL::England::RB::81::61::71::78::79::76
+Mamadou Sakho::Liverpool::Barclays PL::France::CB::81::33::60::56::81::84
+Martin krtel::Liverpool::Barclays PL::Slovakia::CB::81::38::48::53::82::82
+Vincent Enyeama::LOSC Lille::Liga 1::Nigeria::GK::81::80::77::90::50::78
+Camacho::Málaga CF::Liga BBVA::Spain::CDM::81::58::72::69::80::84
+Jesús Navas::Manchester City::Barclays PL::Spain::RM::81::70::76::83::28::50
+Wilfried Bony::Manchester City::Barclays PL::Ivory Coast::ST::81::83::59::74::39::85
+Martín Demichelis::Manchester City::Barclays PL::Argentina::CB::81::40::53::49::83::76
+Memphis Depay::Manchester United::Barclays PL::Netherlands::LW::81::78::73::85::29::75
+Matteo Darmian::Manchester United::Barclays PL::Italy::RB::81::51::69::73::82::78
+Ander Herrera::Manchester United::Barclays PL::Spain::CM::81::70::79::84::54::65
+Nicolas Nkoulou::Marseille::Liga 1::Cameroon::CB::81::44::67::70::82::75
+Didier Drogba::Montreal Impact::Major League Soccer::Ivory Coast::ST::81::83::74::75::36::78
+José Callejón::Napoli::Serie A::Spain::CAM::81::80::73::83::21::62
+Lorenzo Insigne::Napoli::Serie A::Italy::CAM::81::70::78::87::27::47
+Allan::Napoli::Serie A::Brazil::CDM::81::58::73::78::79::81
+Raúl Albiol::Napoli::Serie A::Spain::CB::81::41::57::59::84::76
+Mathieu Valbuena::Olympique Lyon::Liga 1::France::CAM::81::73::80::83::31::49
+Anthony Lopes::Olympique Lyon::Liga 1::Portugal::GK::81::76::72::87::60::77
+Kaká::Orlando City::Major League Soccer::Brazil::CAM::81::78::81::80::30::60
+Marquinhos::Paris Saint-Germain::Liga 1::Brazil::CB::81::38::67::69::84::76
+Thiago Motta::Paris Saint-Germain::Liga 1::Italy::CDM::81::66::77::72::77::82
+Kiko Casilla::Real Madrid::Liga BBVA::Spain::GK::81::82::80::81::32::82
+Carvajal::Real Madrid::Liga BBVA::Spain::RB::81::40::71::79::81::82
+Danilo::Real Madrid::Liga BBVA::Brazil::RB::81::76::77::78::80::80
+Iñigo Martínez::Real Sociedad::Liga BBVA::Spain::CB::81::54::55::60::83::80
+Antonio Cassano::Sampdoria::Serie A::Italy::CF::81::78::87::85::18::59
+Benoît Trémoulinas::Sevilla FC::Liga BBVA::France::LB::81::64::79::78::77::74
+Vitolo::Sevilla FC::Liga BBVA::Spain::LM::81::73::80::82::27::72
+Iborra::Sevilla FC::Liga BBVA::Spain::CDM::81::68::74::69::81::83
+Clint Dempsey::Sounders FC::Major League Soccer::United States::ST::81::80::74::82::42::75
+José Fonte::Southampton::Barclays PL::Portugal::CB::81::35::52::62::84::79
+Rui Patrício::Sporting CP::1ra División Portugal::Portugal::GK::81::80::83::80::50::79
+William Carvalho::Sporting CP::1ra División Portugal::Portugal::CDM::81::58::72::74::83::85
+Benoît Costil::Stade Rennais::Liga 1::France::GK::81::80::78::85::49::82
+Bojan::Stoke City::Barclays PL::Spain::CAM::81::73::78::85::24::46
+André-Pierre Gignac::Tigres::1ra División Mexico::France::ST::81::83::71::74::36::78
+Sebastian Giovinco::Toronto FC::Major League Soccer::Italy::CF::81::77::79::85::26::60
+Toby Alderweireld::Tottenham Hotspur FC::Barclays PL::Belgium::CB::81::59::67::63::83::79
+Sofiane Feghouli::Valencia CF::Liga BBVA::Algeria::RW::81::73::76::85::32::63
+Negredo::Valencia CF::Liga BBVA::Spain::ST::81::81::68::75::39::83
+Diego Benaglio::VfL Wolfsburg::Bundesliga::Switzerland::GK::81::78::64::81::42::80
+Ivan Perii?::VfL Wolfsburg::Bundesliga::Croatia::LM::81::80::79::79::42::74
+Max Kruse::VfL Wolfsburg::Bundesliga::Germany::CF::81::80::78::82::40::73
+Sergio Asenjo::Villarreal CF::Liga BBVA::Spain::GK::81::81::80::83::59::81
+Mateo Musacchio::Villarreal CF::Liga BBVA::Argentina::CB::81::51::65::57::84::79
+Víctor Ruíz::Villarreal CF::Liga BBVA::Spain::CB::81::42::65::62::82::79
+Bruno::Villarreal CF::Liga BBVA::Spain::CM::81::67::77::74::76::75
+Dimitri Payet::West Ham United::Barclays PL::France::CAM::81::76::82::81::44::68
+Axel Witsel::Zenit Saint Petersburg::Russian Premier League::Belgium::CM::81::74::77::82::74::80
+Marcos Rojo::Manchester United::Barclays PL::Argentina::CB::81::60::66::66::81::82
+Kevin Volland::1899 Hoffenheim::Bundesliga::Germany::RM::80::80::77::81::39::82
+Mario Balotelli::AC Milan::Serie A::Italy::ST::80::80::68::79::30::78
+Riccardo Montolivo::AC Milan::Serie A::Italy::CM::80::72::83::76::65::70
+Kieran Gibbs::Arsenal::Barclays PL::England::LB::80::57::72::77::80::72
+Nacho Monreal::Arsenal::Barclays PL::Spain::LB::80::53::72::75::81::72
+Mathieu Debuchy::Arsenal::Barclays PL::France::RB::80::65::73::74::80::78
+Tomá Rosický::Arsenal::Barclays PL::Czech Republic::CAM::80::70::81::83::43::64
+Stephan El Shaarawy::AS Monaco::Liga 1::Italy::LW::80::75::71::84::31::60
+Gervinho::AS Roma::Serie A::Ivory Coast::LW::80::69::70::81::28::64
+Mohamed Salah::AS Roma::Serie A::Egypt::RW::80::72::71::85::45::65
+Maicon::AS Roma::Serie A::Brazil::RB::80::72::77::78::78::78
+Kevin Strootman::AS Roma::Serie A::Netherlands::CM::80::72::79::76::75::81
+Francesco Totti::AS Roma::Serie A::Italy::CF::80::84::87::81::21::68
+De Marcos::Athletic Bilbao::Liga BBVA::Spain::RB::80::62::73::78::74::80
+Muniaín::Athletic Bilbao::Liga BBVA::Spain::LW::80::71::73::84::44::53
+Gabi::Athletic Bilbao::Liga BBVA::Spain::CM::80::72::80::75::72::72
+Beñat::Athletic Bilbao::Liga BBVA::Spain::CM::80::76::84::75::66::73
+Mikel San José::Athletic Bilbao::Liga BBVA::Spain::CB::80::64::67::65::80::77
+Stefan Kießling::Bayer Leverkusen::Bundesliga::Germany::ST::80::82::70::67::44::81
+Gökhan Töre::Besiktas JK::Superliga Turca::Turkey::RM::80::72::79::85::38::76
+Tony Jantschke::Bor. M'gladbach::Bundesliga::Germany::CB::80::41::65::68::84::76
+Cédric Carrasso::Bordeaux::Liga 1::France::GK::80::79::81::82::38::79
+Roman Bürki::Borussia Dortmund::Bundesliga::Switzerland::GK::80::79::74::84::49::79
+Jakub B?aszczykowski::Borussia Dortmund::Bundesliga::Poland::RM::80::72::78::81::58::72
+Neven Suboti?::Borussia Dortmund::Bundesliga::Serbia::CB::80::49::54::48::83::78
+Sven Bender::Borussia Dortmund::Bundesliga::Germany::CDM::80::55::65::63::84::82
+Daniel Agger::Brøndby IF::Superliga de Dinamarca::Denmark::CB::80::64::67::60::81::74
+Balázs Dzsudzsák::Bursaspor::Superliga Turca::Hungary::LM::80::81::78::80::27::68
+Roberto::CD Lugo::Segunda División de España::Spain::GK::80::71::73::86::45::79
+Ramires::Chelsea FC::Barclays PL::Brazil::CDM::80::69::76::81::78::73
+Branislav Ivanovi?::Chelsea FC::Barclays PL::Serbia::RB::80::61::64::61::87::84
+Zoran Toi?::CSKA Moskva::Russian Premier League::Serbia::RM::80::77::76::85::22::54
+Bibras Natcho::CSKA Moskva::Russian Premier League::Israel::CM::80::72::82::79::70::72
+Igor Denisov::Dinamo Moskva::Russian Premier League::Russia::CDM::80::67::75::76::80::75
+Kevin Mirallas::Everton::Barclays PL::Belgium::LM::80::77::77::83::47::63
+Romelu Lukaku::Everton::Barclays PL::Belgium::ST::80::80::66::73::33::82
+Tim Howard::Everton::Barclays PL::United States::GK::80::76::77::82::50::81
+James McCarthy::Everton::Barclays PL::Republic of Ireland::CDM::80::67::76::76::78::81
+Marc Bartra::FC Barcelona::Liga BBVA::Spain::CB::80::46::62::67::84::69
+Thomas Vermaelen::FC Barcelona::Liga BBVA::Belgium::CB::80::64::70::65::81::76
+Holger Badstuber::FC Bayern Munchen::Bundesliga::Germany::CB::80::51::72::54::81::73
+Yacine Brahimi::FC Porto::1ra División Portugal::Algeria::LW::80::71::75::88::40::58
+Maximiliano Pereira::FC Porto::1ra División Portugal::Uruguay::RB::80::69::74::78::81::79
+Bruno Martins Indi::FC Porto::1ra División Portugal::Netherlands::CB::80::48::60::62::81::83
+Maicon::FC Porto::1ra División Portugal::Brazil::CB::80::53::66::58::81::83
+Julian Draxler::FC Schalke 04::Bundesliga::Germany::LM::80::78::79::84::34::62
+Joel Matip::FC Schalke 04::Bundesliga::Cameroon::CB::80::46::68::66::82::76
+Taison::FC Shakhtar::Liga Premier de Ucrania::Brazil::CAM::80::77::74::85::47::63
+Volkan Demirel::Fenerbahçe SK::Superliga Turca::Turkey::GK::80::80::80::83::37::78
+Giuseppe Rossi::Fiorentina::Serie A::Italy::ST::80::83::74::84::22::52
+Gonzalo Rodríguez::Fiorentina::Serie A::Argentina::CB::80::44::60::65::83::75
+Selcuk-inan::Galatasaray SK::Superliga Turca::Turkey::CM::80::76::82::80::69::68
+Guaita::Getafe CF::Liga BBVA::Spain::GK::80::78::73::86::51::77
+Ron-Robert Zieler::Hannover 96::Bundesliga::Germany::GK::80::80::66::82::46::81
+Rodrigo Palacio::Inter Milan::Serie A::Argentina::ST::80::78::76::84::38::71
+Fredy Guarín::Inter Milan::Serie A::Colombia::CM::80::80::79::82::70::88
+Robbie Keane::LA Galaxy::Major League Soccer::Republic of Ireland::ST::80::83::75::83::31::68
+Federico Marchetti::Lazio::Serie A::Italy::GK::80::76::66::87::55::78
+Filip Djordjevic::Lazio::Serie A::Serbia::ST::80::79::58::71::37::84
+Maurício::Lazio::Serie A::Brazil::CB::80::52::56::58::82::80
+Stefano Mauri::Lazio::Serie A::Italy::CAM::80::77::80::78::68::73
+Gökhan Inler::Leicester City::Barclays PL::Switzerland::CDM::80::71::78::74::76::78
+Adam Lallana::Liverpool::Barclays PL::England::CAM::80::71::79::83::47::67
+James Milner::Liverpool::Barclays PL::England::CM::80::76::83::77::69::76
+Mbark Boussoufa::Lokomotiv::Russian Premier League::Marocco::CAM::80::72::82::84::42::55
+Vedran ?orluka::Lokomotiv::Russian Premier League::Croatia::CB::80::47::67::66::82::82
+Marko Baa::LOSC Lille::Liga 1::Montenegro::CB::80::56::58::56::81::80
+Guillermo Ochoa::Málaga CF::Liga BBVA::Mexico::GK::80::67::77::87::47::79
+Gaël Clichy::Manchester City::Barclays PL::France::LB::80::43::65::74::80::68
+Eliaquim Mangala::Manchester City::Barclays PL::France::CB::80::41::56::61::79::85
+Fernandinho::Manchester City::Barclays PL::Brazil::CM::80::74::78::80::74::77
+Javier Hernández::Manchester United::Barclays PL::Mexico::ST::80::80::64::76::31::63
+Ashley Young::Manchester United::Barclays PL::England::LM::80::74::78::82::35::56
+Phil Jones::Manchester United::Barclays PL::England::CB::80::56::65::61::82::80
+Daley Blind::Manchester United::Barclays PL::Netherlands::CDM::80::55::74::75::75::78
+Michael Carrick::Manchester United::Barclays PL::England::CM::80::68::80::72::75::68
+Lassana Diarra::Marseille::Liga 1::France::CDM::80::52::72::75::80::69
+José Reina::Napoli::Serie A::Spain::GK::80::78::83::81::50::80
+Georginio Wijnaldum::Newcastle Utd::Barclays PL::Netherlands::CAM::80::75::73::84::56::70
+Iraola::NY City FC::Major League Soccer::Spain::RB::80::64::77::78::80::81
+David Villa::NY City FC::Major League Soccer::Spain::ST::80::83::72::82::32::64
+Serge Aurier::Paris Saint-Germain::Liga 1::Ivory Coast::RB::80::66::73::77::78::81
+Ezequiel Lavezzi::Paris Saint-Germain::Liga 1::Argentina::LW::80::73::74::82::33::73
+Layvin Kurzawa::Paris Saint-Germain::Liga 1::France::LB::80::69::76::77::79::75
+Andrés Guardado::PSV::Eredivisie::Mexico::CM::80::67::77::83::66::67
+Tito::Rayo Vallecano::Liga BBVA::Spain::RB::80::46::68::72::79::66
+Trashorras::Rayo Vallecano::Liga BBVA::Spain::CDM::80::70::86::74::72::70
+Fábio Coentrão::Real Madrid::Liga BBVA::Portugal::LB::80::66::73::79::78::72
+Arbeloa::Real Madrid::Liga BBVA::Spain::RB::80::61::72::62::82::78
+Domenico Berardi::Sassuolo::Serie A::Italy::RW::80::79::75::83::30::70
+Coke::Sevilla FC::Liga BBVA::::RB::80::63::70::74::79::74
+Éver Banega::Sevilla FC::Liga BBVA::Argentina::CAM::80::70::83::82::65::69
+Daniel Carriço::Sevilla FC::Liga BBVA::Portugal::CB::80::53::68::65::81::81
+Llorente::Sevilla FC::Liga BBVA::::ST::80::77::60::69::28::76
+Eduardo Salvio::SL Benfica::1ra División Portugal::Argentina::RM::80::75::73::84::44::69
+Jardel::SL Benfica::1ra División Portugal::Brazil::CB::80::44::51::54::83::82
+Andreas Samaris::SL Benfica::1ra División Portugal::Greece::CDM::80::68::76::74::78::82
+Quincy Promes::Spartak Moskva::Russian Premier League::Netherlands::RW::80::80::72::82::28::67
+Roman Shirokov::Spartak Moskva::Russian Premier League::Russia::CM::80::78::82::75::71::72
+André Carrillo::Sporting CP::1ra División Portugal::Peru::RM::80::77::74::82::30::70
+Adrien Silva::Sporting CP::1ra División Portugal::Portugal::CM::80::76::82::79::68::69
+Xherdan Shaqiri::Stoke City::Barclays PL::Switzerland::RM::80::77::77::85::57::74
+Ryan Shawcross::Stoke City::Barclays PL::England::CB::80::44::52::50::82::84
+Ashley Williams::Swansea City::Barclays PL::Wales::CB::80::43::55::62::81::82
+Michael Bradley::Torino FC::Serie A::United States::CM::80::69::79::78::72::83
+Nikola Maksimovi?::Torino FC::Serie A::Serbia::CB::80::28::47::55::84::79
+Michel Vorm::Tottenham Hotspur FC::Barclays PL::Netherlands::GK::80::75::77::84::57::79
+Moussa Dembélé::Tottenham Hotspur FC::Barclays PL::Belgium::CM::80::72::75::82::69::82
+Onur K?vrak::Trabzonspor::Superliga Turca::Turkey::GK::80::78::79::86::67::78
+Gayà::Valencia CF::Liga BBVA::Spain::LB::80::61::76::77::78::69
+Pablo Piatti::Valencia CF::Liga BBVA::Argentina::LW::80::71::75::82::42::59
+Paco Alcácer::Valencia CF::Liga BBVA::Spain::ST::80::81::62::76::30::71
+Javi Fuego::Valencia CF::Liga BBVA::::CDM::80::60::71::67::79::81
+André Gomes::Valencia CF::Liga BBVA::Portugal::CM::80::69::76::81::69::80
+Aderlan Santos::Valencia CF::Liga BBVA::Brazil::CB::80::53::48::59::84::79
+André Schürrle::VfL Wolfsburg::Bundesliga::Germany::LM::80::80::75::82::35::67
+Vieirinha::VfL Wolfsburg::Bundesliga::Portugal::RM::80::74::76::86::64::66
+Mikel Gonzalez::Villarreal CF::Liga BBVA::Spain::CB::80::45::61::52::81::82
+Salomón Rondón::West Brom::Barclays PL::Venezuela::ST::80::78::56::74::31::80
+Oleg Shatov::Zenit Saint Petersburg::Russian Premier League::Russia::LW::80::74::76::82::52::67
+Igor Smolnikov::Zenit Saint Petersburg::Russian Premier League::Russia::RB::80::63::77::75::78::72
+Domenico Criscito::Zenit Saint Petersburg::Russian Premier League::Italy::LB::80::63::73::75::79::77
+Javi García::Zenit Saint Petersburg::Russian Premier League::::CDM::80::67::75::68::80::86
+Timo Horn::1.FC Köln::Bundesliga::Germany::GK::79::78::79::80::45::82
+Luiz Adriano::AC Milan::Serie A::Brazil::ST::79::82::59::77::30::69
+Davy Klaassen::Ajax::Eredivisie::Netherlands::CAM::79::77::73::75::65::78
+Alex Oxlade-Chamberlain::Arsenal::Barclays PL::England::RM::79::72::73::84::42::70
+Danny Welbeck::Arsenal::Barclays PL::England::ST::79::76::72::80::34::78
+Bernardo Silva::AS Monaco::Liga 1::Portugal::RM::79::68::77::82::45::60
+Wojciech Szczesny::AS Roma::Serie A::Portugal::GK::79::77::71::85::50::74
+Adem Ljaji?::AS Roma::Serie A::Spain::LW::79::78::77::82::32::61
+Iago Falqué::AS Roma::Serie A::Spain::RW::79::72::74::85::33::56
+Balenziaga::Athletic Bilbao::Liga BBVA::Spain::LB::79::48::72::75::79::78
+Luciano Vietto::Atletico Madrid::Liga BBVA::Argentina::ST::79::79::72::85::36::64
+Óliver Torres::Atletico Madrid::Liga BBVA::Spain::CAM::79::60::77::84::42::46
+Christoph Kramer::Bayer Leverkusen::Bundesliga::Germany::CDM::79::45::70::73::78::77
+Kyriakos Papadopoulos::Bayer Leverkusen::Bundesliga::Greece::CB::79::45::52::50::78::84
+Rhodolfo::Besiktas JK::Superliga Turca::Brazil::CB::79::53::57::57::82::82
+Lars Stindl::Bor. M'gladbach::Bundesliga::Germany::CAM::79::79::77::77::64::72
+Wahbi Khazri::Bordeaux::Liga 1::Tunisia::CAM::79::78::79::79::43::67
+Lamine Sané::Bordeaux::Liga 1::Cameroon::CB::79::44::63::66::80::78
+Max Gradel::Bournemouth::Barclays PL::Ivory Coast::LW::79::74::71::82::44::60
+Fabián Orellana::Celta Vigo::Liga BBVA::Chile::RW::79::72::73::85::31::53
+Augusto Fernández::Celta Vigo::Liga BBVA::Argentina::CM::79::71::77::79::57::67
+Yohan Cabaye::Crystal Palace::Barclays PL::France::CDM::79::76::82::78::72::73
+Seydou Doumbia::CSKA Moskva::Russian Premier League::Ivory Coast::ST::79::79::68::79::39::71
+Mário Fernandes::CSKA Moskva::Russian Premier League::Brazil::RB::79::59::71::70::81::77
+Alan Dzagoev::CSKA Moskva::Russian Premier League::Russia::LM::79::75::78::79::46::69
+Ross Barkley::Everton::Barclays PL::England::CAM::79::72::75::81::56::74
+Aleix Vidal::FC Barcelona::Liga BBVA::Spain::RM::79::68::71::82::38::77
+Rafinha::FC Barcelona::Liga BBVA::Brazil::CM::79::73::76::85::63::67
+Bernat::FC Bayern Munchen::Bundesliga::Spain::LB::79::60::76::82::78::67
+Sebastian Rode::FC Bayern Munchen::Bundesliga::Germany::CDM::79::62::72::74::79::78
+Joãozinho::FC Krasnodar::Russian Premier League::Brazil::LM::79::77::78::80::61::52
+Cristian Tello::FC Porto::1ra División Portugal::Spain::RW::79::72::73::82::24::62
+Vincent Aboubakar::FC Porto::1ra División Portugal::Cameroon::ST::79::80::68::75::26::81
+Danilo Pereira::FC Porto::1ra División Portugal::Portugal::CDM::79::59::66::73::79::86
+Franco Di Santo::FC Schalke 04::Bundesliga::Argentina::ST::79::80::66::76::33::76
+Matija Nastasi?::FC Schalke 04::Bundesliga::Serbia::CB::79::31::55::51::82::74
+Johannes Geis::FC Schalke 04::Bundesliga::Germany::CDM::79::67::83::73::76::78
+Marlos::FC Shakhtar::Liga Premier de Ucrania::Brazil::CAM::79::75::73::86::48::63
+Davide Astori::Fiorentina::Serie A::Italy::CB::79::36::45::51::82::78
+Diego Perotti::Genoa::Serie A::Argentina::LW::79::70::77::84::32::60
+Pedro León::Getafe CF::Liga BBVA::Spain::RM::79::74::86::81::41::58
+Federico Mancuello::Independiente::Argentina::Argentina::CM::79::74::80::78::60::76
+Montoya::Inter Milan::Serie A::Spain::RB::79::50::72::76::76::76
+Juan Jesus::Inter Milan::Serie A::Brazil::CB::79::33::51::58::80::84
+Mauro Icardi::Inter Milan::Serie A::Argentina::ST::79::79::59::74::26::72
+Neto::Juventus::Serie A::Brazil::GK::79::75::73::85::53::77
+Kwadwo Asamoah::Juventus::Serie A::Cameroon::LM::79::76::76::83::72::79
+Felipe Anderson::Lazio::Serie A::Brazil::LW::79::75::74::85::32::56
+Alberto Moreno::Liverpool::Barclays PL::Spain::LWB::79::67::70::79::72::70
+Jordan Henderson::Liverpool::Barclays PL::England::CM::79::70::81::75::70::79
+Dejan Lovren::Liverpool::Barclays PL::Croatia::CB::79::40::60::63::80::79
+Lucas Leiva::Liverpool::Barclays PL::Brazil::CDM::79::40::70::71::79::76
+Aleksandar Kolarov::Manchester City::Barclays PL::Serbia::LB::79::69::78::76::81::79
+Fernando::Manchester City::Barclays PL::Brazil::CDM::79::61::68::68::81::82
+Chris Smalling::Manchester United::Barclays PL::England::CB::79::26::55::61::83::76
+Rémy Cabella::Marseille::Liga 1::France::CAM::79::73::77::85::56::56
+Claudio Beauvue::Olympique Lyon::Liga 1::France::ST::79::78::70::80::44::61
+Nabil Fékir::Olympique Lyon::Liga 1::France::ST::79::78::78::87::31::75
+Samuel Umtiti::Olympique Lyon::Liga 1::France::CB::79::62::67::70::80::79
+Franco Vázquez::Palermo::Serie A::Italy::CF::79::76::78::82::42::70
+Héctor Moreno::PSV::Eredivisie::Mexico::CB::79::43::62::62::81::76
+Luuk de Jong::PSV::Eredivisie::Netherlands::ST::79::77::70::74::42::72
+Felipe Caicedo::RCD Espanyol::Liga BBVA::Ecuador::ST::79::78::63::76::47::84
+Keylor Navas::Real Madrid::Liga BBVA::Costa Rica::GK::79::74::69::83::61::77
+Gonzalo Castro::Real Sociedad::Liga BBVA::Uruguay::LW::79::74::73::82::37::59
+Rubén Pardo::Real Sociedad::Liga BBVA::Spain::CM::79::63::81::80::58::60
+Canales::Real Sociedad::Liga BBVA::Spain::CAM::79::74::80::80::26::63
+Carlos Martínez::Real Sociedad::Liga BBVA::Spain::RB::79::52::71::68::80::78
+Illarramendi::Real Sociedad::Liga BBVA::Spain::CM::79::62::79::77::74::70
+Granero::Real Sociedad::Liga BBVA::Spain::CM::79::71::84::77::64::69
+Romain Hamouma::Saint-Etienne::Liga 1::France::RM::79::80::79::81::45::66
+Eder::Sampdoria::Serie A::Italy::LW::79::78::73::81::25::61
+Kévin Gameiro::Sevilla FC::Liga BBVA::France::ST::79::79::75::78::35::68
+Ciro Immobile::Sevilla FC::Liga BBVA::::ST::79::81::61::76::35::74
+Steven N'Zonzi::Sevilla FC::Liga BBVA::France::CDM::79::57::73::76::77::83
+Pizzi::SL Benfica::1ra División Portugal::Portugal::CAM::79::72::79::81::58::66
+Adel Taarabt::SL Benfica::1ra División Portugal::Marocco::CAM::79::73::78::84::32::62
+Duan Tadi?::Southampton::Barclays PL::Serbia::LM::79::69::80::83::37::66
+Serdar Tasci::Spartak Moskva::Russian Premier League::Germany::CB::79::41::64::66::81::72
+Jefferson::Sporting CP::1ra División Portugal::Brazil::LB::79::71::76::77::76::79
+Teófilo Gutiérrez::Sporting CP::1ra División Portugal::Colombia::ST::79::80::71::80::26::76
+Paulo Oliveira::Sporting CP::1ra División Portugal::Portugal::CB::79::35::52::60::83::75
+Bryan Ruíz::Sporting CP::1ra División Portugal::Costa Rica::LM::79::73::79::84::53::57
+Aïssa Mandi::Stade Reims::Liga 1::Algeria::RB::79::46::74::68::82::72
+Paul-Georges Ntep::Stade Rennais::Liga 1::France::LM::79::77::74::83::26::73
+Jeremain Lens::Sunderland::Barclays PL::Netherlands::LW::79::76::76::82::32::70
+André Ayew::Swansea City::Barclays PL::Cameroon::LM::79::73::75::81::63::76
+Bruno Peres::Torino FC::Serie A::Brazil::RWB::79::68::71::79::73::76
+Kyle Walker::Tottenham Hotspur FC::Barclays PL::England::RB::79::63::72::73::77::80
+Erik Lamela::Tottenham Hotspur FC::Barclays PL::Argentina::RM::79::77::78::84::32::57
+Nacer Chadli::Tottenham Hotspur FC::Barclays PL::Belgium::LM::79::76::76::79::45::78
+Rodrigo::Valencia CF::Liga BBVA::Spain::ST::79::78::70::80::33::71
+Enzo Pérez::Valencia CF::Liga BBVA::Argentina::CM::79::72::75::79::76::82
+Emiliano Insua::VfB Stuttgart::Bundesliga::Argentina::LB::79::73::72::74::81::79
+Bas Dost::VfL Wolfsburg::Bundesliga::Netherlands::ST::79::82::51::52::40::74
+Mario Gaspar::Villarreal CF::Liga BBVA::Spain::RB::79::58::70::71::80::78
+Leo Baptistao::Villarreal CF::Liga BBVA::Brazil::ST::79::76::69::83::26::61
+Manu Trigueros::Villarreal CF::Liga BBVA::Spain::CM::79::69::79::76::67::66
+Zlatko Junuzovi?::Werder Bremen::Bundesliga::Austria::CM::79::73::83::80::70::74
+Angelo Ogbonna::West Ham United::Barclays PL::Ivory Coast::CB::79::40::48::57::83::80
+Cristian Ansaldi::Zenit Saint Petersburg::Russian Premier League::Argentina::LB::79::59::72::73::77::73
+Artem Dzyuba::Zenit Saint Petersburg::Russian Premier League::Russia::ST::79::78::70::67::30::85
